@@ -1,10 +1,10 @@
 <p align="center">
-      <img src="Project Logo Url" width="726">
+      <img src="https://ibb.co/tmjk66Y" width="726">
 </p>
 
 <p align="center">
-   <img src="" alt="Unity Version">
-   <img src="" alt="Game Version">
+   <img src="" alt="Python version">
+   <img src="b1.07.23" alt="Game Version">
    <img src="" alt="License">
 </p>
 
