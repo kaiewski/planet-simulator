@@ -1,28 +1,46 @@
 <p align="center">
-      <img src="https://ibb.co/tmjk66Y" width="726">
+      <img src="https://i.ibb.co/tmjk66Y/logo.png" width="100">
 </p>
 
 <p align="center">
-   <img src="" alt="Python version">
-   <img src="b1.07.23" alt="Game Version">
-   <img src="" alt="License">
+   <img src="https://img.shields.io/badge/Engine-Pygame_2.5.0-blueviolet" alt="Engine">
+   <img src="https://img.shields.io/badge/Game_Version-b01.07.23-blue" alt="Game Version">
+   <img src="https://img.shields.io/badge/License-MIT-success" alt="License">
 </p>
 
 ## About
 
-About Text Here
+The project is designed to simulate the physical problems of celestial bodies or just for fun. The simulator is not authentic and realistic, in it you can simulate different situations that you are able to think up yourself. 
 
 ## Documentation
 
-Documentation Here
+### Camera controls
+- **-** Press **`Q`** and aim to the object to capture it with the camera.
+- **-** You can also change the captured object with the **`Left`** and **`Right`** keys.
+- **-** Tap **`Space`** to disconnect from the object of observation.
+- **-** Press **`Mouse Wheel`** to move around the map.
 
+### Spawn objects
+- **-** Click **`Left Mouse Button`** to spawn a `single` object linked to the left mouse button.
+- **-** Press **`E`** to spawn a `many` objects linked to the left mouse button.
+- **-** Click **`Right Mouse Button`** to spawn a `single` object linked to the right mouse button.
+- **-** Press **`R`** to spawn a `many` objects linked to the right mouse button.
+
+### Time simulation
+- **-** Scroll to **`Mouse Wheel Up`** to increase the speed of the simulation.
+- **-** Scroll to **`Mouse Wheel Down`** to decrease the speed of the simulation.
+- **-** If you hold down the **`Ctrl key`**, you can change the time by `~10 units~`, and if you hold down the `Shift key`, you can change the time by `~100 units~`.
+- **-** If you want to change an object's parameters, you can click on the icon on the left and a list will open where you can change values.
+  
 ## Distribute
 
-- [Service Name](Page Link)
+- `Download the latest version on` [GitHub](https://github.com/kaiewski/planet-simulator)
 
 
 ## Developers
 
-- [Delevoper Name](GitHub Profile Link)
+- [kaiewski](https://github.com/kaiewski)
 
 ## License
+
+Planet Simulator by kaiewski is distributed under the MIT license.
