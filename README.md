@@ -14,6 +14,9 @@ The project is designed to simulate the physical problems of celestial bodies or
 
 ## Documentation
 
+### Download and Play
+- **-** You can go to the download site ([GitHub](https://github.com/kaiewski/planet-simulator) or [Itch.io](https://itch.io/kaiewski/planet-simulator)) and download the archive with the game, unzip it into the folder you want. Then you should go to the folder with the name **`Planet Sim`** and find the **`.exe`** file and enjoy the simulation!
+
 ### Camera controls
 - **-** Press **`Q`** and aim to the object to capture it with the camera.
 - **-** You can also change the captured object with the **`Left`** and **`Right`** keys.
@@ -35,6 +38,7 @@ The project is designed to simulate the physical problems of celestial bodies or
 ## Distribute
 
 - `Download the latest version on` [GitHub](https://github.com/kaiewski/planet-simulator)
+- `Download the latest version on` [Itch.io](https://itch.io/kaiewski/planet-simulator)
 
 
 ## Developers
