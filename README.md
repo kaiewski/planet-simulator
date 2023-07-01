@@ -10,7 +10,7 @@
 
 ## About
 
-The project is designed to simulate the physical problems of celestial bodies or just for fun. The simulator is not authentic and realistic, you can simulate different situations that you are able to think up yourself. Planet Simulator is just a sandbox game where you entertain yourself. 
+The project is designed to simulate the physical problems of celestial bodies or just for fun. The simulator is not authentic and realistic, you can simulate different situations that you are able to think up yourself. Planet Simulator is just a sandbox game where you entertain yourself! 
 
 ## Documentation
 
